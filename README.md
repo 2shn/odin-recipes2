@@ -1,1 +1,1 @@
-# odin-recipes2
+This project introduces different recipes about my favorite food.# odin-recipes2
